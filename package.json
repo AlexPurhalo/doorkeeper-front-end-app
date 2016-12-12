@@ -1,0 +1,12 @@
+{
+	"name": "doorkeeper-front-end-app",
+	"version": "1.0.0",
+	"description": "Client side application for doorkeeper example",
+	"main": "index.js",
+	"repository": "git@github.com:AlexPurhalo/doorkeeper-front-end-app.git",
+	"scripts": {},
+	"author": "Alex Purhalo",
+	"license": "",
+	"devDependencies": {},
+	"dependencies": {}
+}
